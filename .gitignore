@@ -1,2 +1,13 @@
 .DS_Store
 ./vscode
+
+.idea
+*.iml
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
